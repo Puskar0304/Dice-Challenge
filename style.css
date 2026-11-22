@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 80px;
+    font-family:'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 95px;
+}
+.container h1 {
+    font-size: 50px;
+}
